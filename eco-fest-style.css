@@ -1,0 +1,36 @@
+*{
+	color: AliceBlue;
+}
+
+body {
+  background-color: Maroon;
+  color: black
+}
+
+h1 {
+  color: White;
+  text-align: center;
+  font-size: 65px;
+}
+
+h2 {
+	color: AliceBlue;
+	text-align: center;
+	font-size: 50px;
+}
+
+.JohannSebastianBach{
+	text-align: center;
+}
+
+.WolfgangAmadeusMozart{
+	text-align: center;
+}
+
+.LudwigVanBeethoven{
+	text-align: center;
+}
+
+.JohannesBrahms{
+	text-align: center;
+}
